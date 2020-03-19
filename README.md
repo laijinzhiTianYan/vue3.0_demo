@@ -2,9 +2,10 @@
  * @Author: shiwh
  * @Date: 2020-03-19 09:24:23
  * @LastEditors: shiwh
- * @LastEditTime: 2020-03-19 11:35:57
+ * @LastEditTime: 2020-03-19 12:58:23
  * @Description: 
  -->
+ [![](https://img.shields.io/badge/vue3.0-slmyer-ff69b4)](https://github.com/slmyer/vue3.0_demo)
 # vue_demo3.0
 
 ## Project setup
