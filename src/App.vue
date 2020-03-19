@@ -1,8 +1,15 @@
+<!--
+ * @Author: shiwh
+ * @Date: 2020-03-19 09:23:52
+ * @LastEditors: shiwh
+ * @LastEditTime: 2020-03-19 09:29:10
+ * @Description:
+ -->
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <!-- <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link> -->
     </div>
     <router-view/>
   </div>
